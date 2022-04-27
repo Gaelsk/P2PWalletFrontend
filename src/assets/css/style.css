@@ -1,0 +1,12 @@
+a,
+a:hover {
+  text-decoration: none !important;
+}
+.pointer {
+  cursor: pointer;
+}
+.modal-close-btn {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
